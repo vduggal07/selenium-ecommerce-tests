@@ -1,0 +1,4 @@
+username,password,expected_message
+testuser,testpassword,Sign up successful!
+existinguser,testpassword,This user already exists.
+invaliduser,invalidpassword,User does not exist.
